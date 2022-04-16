@@ -5,3 +5,4 @@ sklearn
 optuna
 optuna-dashboard
 torch
+plotly
